@@ -1,0 +1,43 @@
+h1 {
+	color: green;
+	font-size: 24pt;
+	font-family: georgia;
+	text-align: center;
+	
+}
+
+label {
+	font-size: 12pt;
+	font-family: "verdana", sans-serif;
+	text-align: center;
+	color: pink;
+	text-shadow: 1px 1px #c48497;
+}
+
+div {
+	padding: 2px;
+	text-align: center;
+}
+
+button {
+	padding: 2px;
+	text-align: center;
+}
+input[type=submit]{
+	width: 75px;
+	background-color: #02f;
+	color: white;
+	padding: 4px;
+	border: none;
+	border-radius:4px;
+	font-family: "verdana", sans-serif;
+}
+input[type=reset]{
+	width: 75px;
+	background-color: #99c8ff;
+	color: black;
+	padding: 4px;
+	border: none;
+	border-radius:4px;
+	font-family: "verdana", sans-serif;
+}
